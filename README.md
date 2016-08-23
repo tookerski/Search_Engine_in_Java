@@ -7,6 +7,7 @@ This search engine is written in Java and can be used for external searching or 
 3. index base & document base.
 4. indexing process
 5. web interactive & display
+
 ###Crawler
 ###Full-Text Indexing
 ###Natural language processing
